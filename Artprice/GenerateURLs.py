@@ -4,7 +4,6 @@ import csv
 import bs4
 from bs4 import BeautifulSoup
 from FindMaxPage import MaxPage
-import pandas as pd
 
 ArtPriceURL = 'https://www.artprice.com/marketplace'
 MaxPageNum = MaxPage(ArtPriceURL)
