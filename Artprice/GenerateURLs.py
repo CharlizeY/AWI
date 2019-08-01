@@ -31,7 +31,7 @@ for i in range(1, MaxPageNum):
         Links.append(link)
         print(link)
 
-# ExtractedURLs = open("ExtractedURLs.csv",'w')
-# wr = csv.writer(ExtractedURLs, dialect='excel')
-# for link in Links:
-#     wr.writerow([link])
+ExtractedURLs = open("ExtractedURLs.csv",'w')
+wr = csv.writer(ExtractedURLs, dialect='excel')
+for link in Links:
+    wr.writerow([link])
