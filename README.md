@@ -1,2 +1,2 @@
 # ArtWorldInsights
-Python & R codes mainly for artwork data collection and art price modelling.
+Python & R codes mainly for Artwork Data Collection and Art Price Modelling.
