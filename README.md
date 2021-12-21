@@ -1,2 +1,2 @@
 # ArtWorldInsights
-Python & R codes for art price modelling.
+Art price data scrapping, cleaning, analysing and modelling.
